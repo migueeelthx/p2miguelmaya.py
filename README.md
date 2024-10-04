@@ -17,4 +17,6 @@ Y un ejemplo del segundo progama son:
   
   El punto se encuentra en el cuadrante IV
 
-   
+
+
+   Mis reflexiones del progama son que he estado viendo otros tipos de progamacion y se me a hecho como la forma en que se progama en pytho se me hace mas sencillo que otros lengüajes de progamacíon
